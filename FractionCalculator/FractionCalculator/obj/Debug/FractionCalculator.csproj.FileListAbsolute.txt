@@ -1,0 +1,7 @@
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Анхель Гонсален\Desktop\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.pdb
